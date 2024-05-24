@@ -74,9 +74,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "./")
 		)
 	)
 	(net 0 "")
@@ -40526,16 +40526,6 @@
 		(fill none)
 		(layer "B.SilkS")
 		(uuid "d2c4b706-34ed-4856-856b-26be0490755c")
-	)
-	(gr_line
-		(start 110.49 132.08)
-		(end 107.95 132.08)
-		(stroke
-			(width 0.155)
-			(type default)
-		)
-		(layer "B.SilkS")
-		(uuid "d3067e5e-fd0d-493e-b43f-2991066a9bf5")
 	)
 	(gr_rect
 		(start 138.43 140.97)
